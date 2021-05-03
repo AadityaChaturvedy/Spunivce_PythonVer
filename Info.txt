@@ -1,0 +1,17 @@
+Utilities:- 
+
+NewQuan:- If you want to take a test or exam for anyone then this app is for you. Give question to your examinee and then enter the no. of examinee, no. of questions, answers for them and give this to your examinee and tell him to solve the question and at last enter yes/no to print the result.
+
+MathsEquation:- This is a small game where you can improve your maths skills by answering as many question as you can in a short period of time.
+
+Password Generator:- Need a password that has super insane security then this utility is for use this to generate a high level password.
+
+
+Games:- 
+
+
+Random Word Picker:- Confused to choose from three option then use this. Enter three word and the app will choose one for you.
+
+Random Num:- This game is the most adictive one. The app chooses a number you get 5 turns to guess that number.
+
+Time Pass:- Want to make someone irritated then this game is for them.

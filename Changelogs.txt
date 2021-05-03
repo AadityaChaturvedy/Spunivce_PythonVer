@@ -1,0 +1,35 @@
+Current App Version :- Beta 1.0
+
+Beta 0.1 :-
+1) Added New Quan 
+2) Added Random Word Guesser Game
+3) Added Local Login System
+
+Beta 0.3 :-
+1) Added Changelogs
+        
+Beta 0.5 :-
+1) Changed The Local Login System
+        
+Beta 0.6 :-
+1) Made the app faster
+2) Added a few changes to Newquan and Changelog
+
+Beta 0.7 :-
+1) Added Random Number Game
+2) Added a game for Time Pass
+3) Added a maths equation game.
+4) Made changes to TimePass.py, Changelogs.txt and Equation.py
+
+Beta 0.8 :-
+1) Changed the Login system completely
+2) Added a Info Page
+
+Beta 0.9 :-
+1) Massive update to Maths Equation Game
+
+Beta 1.0 :- 
+1) Added option to Delete Account
+
+V1.0 :- 
+1) Made Final Changes and made the app ready for 1.0

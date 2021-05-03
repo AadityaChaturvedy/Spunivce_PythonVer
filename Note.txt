@@ -1,0 +1,8 @@
+Note:- 
+
+1) Solve the equation to get one point 
+2) You have to solve the equation in a particular time
+3) For Every Correct answer you will get one point 
+4) For every wrong answer you will lose one point 
+5) If you pass the particular time in which you have to complete you will lose one point
+6) If the answer is in points and it is non-terminating then write the answer till 16 place like 0.1111111111111111 or 0.2872872872872872
